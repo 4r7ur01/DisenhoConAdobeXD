@@ -5,3 +5,4 @@ Adobe XD es un editor de gráficos vectoriales desarrollado y publicado por Adob
 Presentacion de diseño realizado con Adobe XD
 ![alt text](img/img.png "Presentacion de las caratulas")
 ![alt text](img/inicio.png "Inicio de la aplicacion")
+![alt text](img/crudcliente.png "Funciones que realizaria el usuario")
